@@ -1,0 +1,11 @@
+streamlit
+crewai
+langchain-community-tools
+requests
+python-dotenv
+matplotlib
+vaderSentiment
+langchain
+langchain-groq
+duckduckgo-search
+numpy
